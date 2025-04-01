@@ -13,3 +13,4 @@ backend/.DS_Store
 
 # OS関連
 .DS_Store
+.vercel
